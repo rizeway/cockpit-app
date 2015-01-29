@@ -1,0 +1,13 @@
+{
+    "name": "rizeway/cockpit-app",
+    "require": {
+        "aheinze/cockpit": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Riad Benguella",
+            "email": "benguella@gmail.com"
+        }
+    ]
+}

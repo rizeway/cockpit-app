@@ -1,0 +1,59 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "d4d631bce2621fa523a27c9d8877705a",
+    "packages": [
+        {
+            "name": "aheinze/cockpit",
+            "version": "0.12.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/aheinze/cockpit.git",
+                "reference": "97943014a658286871100afcc5fa95d8ff448e85"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/aheinze/cockpit/zipball/97943014a658286871100afcc5fa95d8ff448e85",
+                "reference": "97943014a658286871100afcc5fa95d8ff448e85",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4.0"
+            },
+            "type": "project",
+            "autoload": {
+                "files": [
+                    "bootstrap.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Artur Heinze",
+                    "email": "artur@agentejo.com"
+                }
+            ],
+            "description": "An api-driven CMS without forcing you to make compromises in how you implement your site.",
+            "homepage": "http://getcockpit.com",
+            "keywords": [
+                "api",
+                "cms",
+                "nosql"
+            ],
+            "time": "2014-11-19 00:28:02"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "platform": [],
+    "platform-dev": []
+}
